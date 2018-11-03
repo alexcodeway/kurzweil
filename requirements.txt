@@ -1,0 +1,6 @@
+requests
+json
+NumPy
+SciPy
+scikit-learn
+pandas
